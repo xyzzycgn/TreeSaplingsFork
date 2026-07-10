@@ -1,0 +1,4 @@
+.idea/
+*.iml
+*-luacov.report.html
+luacov.stats.out
